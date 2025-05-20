@@ -1,0 +1,6 @@
+public class PrintNumber {
+    public static void main(String[] args) {
+        int number = 42; // You can change this to any number you want
+        System.out.println("The number is: " + number);
+    }
+}
